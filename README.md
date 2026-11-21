@@ -33,12 +33,14 @@ Meu objetivo é simples: escrever código limpo, criar experiências agradáveis
 <h3 align="center">🤝 Conecte-se</h3>
 
 <p align="center">
-  <a href="https://devrafaelbarros.github.io/meu-portfolio/"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfólio" height="42"></a>
+  <a href="https://github.com/devRafaelbarros"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rafaelbarrosdacosta"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="42"></a>
   &nbsp;
   <a href="mailto:raffzaccont@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="42"></a>
 </p>
+
+<p align="center">🌐 <a href="https://devrafaelbarros.github.io/meu-portfolio/">Ver meu portfólio</a></p>
 
 ---
 
